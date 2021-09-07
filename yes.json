@@ -1,26 +1,37 @@
 {
 	"10": {
-		"paths": [
-				"epicgames_S10_FNCS_Finals_NAE"
-			],
-		"type": "single"
+		"paths": {
+			"pathdat": "epicgames_S10_FNCS_Finals_NAE",
+			"label": "Event5"
 		},
+		"type": "single"
+	},
 	"11": {
-		"paths": [
-				"epicgames_S11_FNCS_Finals_NAE"
-			],
-		"type": "single"
+		"paths": {
+			"pathdat": "epicgames_S11_FNCS_Finals_NAE",
+			"label": "Event5"
 		},
+		"type": "single"
+	},
 	"12": {
-		"paths": [
-				"epicgames_S12_FNCS_Finals_PC_NAE"
-			],
-		"type": "single"
+		"paths": {
+			"pathdat": "epicgames_S12_FNCS_Finals_PC_NAE",
+			"label": "Event5"
 		},
-	"13": {
-		"paths": [
-				"epicgames_S13_FNCS_NAE_Finals_PC"
-			],
 		"type": "single"
+	},
+	"13": {
+		"paths": {
+			"pathdat": "epicgames_S13_FNCS_NAE_Finals_PC",
+			"label": "GrandFinals"
+		},
+		"type": "single"
+	},
+	"14": {
+		"paths": {
+			"pathdat": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+			"label": "Event"
+		},
+		"type": "multi"
 	}
 }
