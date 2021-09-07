@@ -13,10 +13,17 @@
 		},
 		"type": "single"
 	},
-	"12": {
+	"12a": {
 		"paths": {
 			"pathdat": "epicgames_S12_FNCS_Finals_PC_NAE",
 			"label": "Event5"
+		},
+		"type": "single"
+	},
+	"12b": {
+		"paths": {
+			"pathdat": "epicgames_S12_FNCS_Invitational_NAE_Week3",
+			"label": "Day2"
 		},
 		"type": "single"
 	},
@@ -33,5 +40,33 @@
 			"label": "Event"
 		},
 		"type": "multi"
+	},
+	"15": {
+		"paths": {
+			"pathdat": "epicgames_S15_FNCS_GrandFinals_NAE",
+			"label": "Round"
+		},
+		"type": "multi"
+	},
+	"16": {
+		"paths": {
+			"pathdat": "epicgames_S16_FNCS_Finals_NAE",
+			"label": "Round"
+		},
+		"type": "multi"
+	},
+	"17a": {
+		"paths": {
+			"pathdat": "epicgames_S17_FNCS_Finals_NAE",
+			"label": "Round"
+		},
+		"type": "multi"
+	},
+	"17b": {
+		"paths": {
+			"pathdat": "epicgames_S17_FNCS_SoloFinals_NAE",
+			"label": "Event"
+		},
+		"type": "single"
 	}
 }
