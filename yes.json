@@ -1,0 +1,26 @@
+{
+	"10": {
+		"paths": [
+				"epicgames_S10_FNCS_Finals_NAE"
+			],
+		"type": "single"
+		},
+	"11": {
+		"paths": [
+				"epicgames_S11_FNCS_Finals_NAE"
+			],
+		"type": "single"
+		},
+	"12": {
+		"paths": [
+				"epicgames_S12_FNCS_Finals_PC_NAE"
+			],
+		"type": "single"
+		},
+	"13": {
+		"paths": [
+				"epicgames_S13_FNCS_NAE_Finals_PC"
+			],
+		"type": "single"
+	}
+}
